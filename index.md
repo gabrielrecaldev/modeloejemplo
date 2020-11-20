@@ -60,3 +60,10 @@
     }
 </script>
 
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="Nuevo"
+  agent-id="20cc7bed-368a-479a-b51d-d09878e1b866"
+  language-code="es"
+></df-messenger>
